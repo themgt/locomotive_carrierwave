@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.summary = "Upload files in your Ruby applications, map them to a range of ORMs, store them on different backends."
   s.description = "Upload files in your Ruby applications, map them to a range of ORMs, store them on different backends."
   s.has_rdoc = true
-  s.extra_rdoc_files = ["README.md"]
+  s.extra_rdoc_files = ["README.rdoc"]
   s.files = Dir["{lib,test}/**/*.rb"] + s.extra_rdoc_files
   
   s.rubyforge_project = "none"
